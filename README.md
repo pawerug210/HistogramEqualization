@@ -1,0 +1,2 @@
+# HistogramEqualization
+PyPlay - Histogram equalization
